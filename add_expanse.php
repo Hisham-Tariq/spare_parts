@@ -2,7 +2,7 @@
  
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "Usman11@lushlife";
 $dbname = "electronics_store";
 
 if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
